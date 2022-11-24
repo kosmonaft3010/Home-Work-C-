@@ -1,0 +1,15 @@
+C:\Users\kosmonaft3010\Desktop\Home work C#\Home_work_Seminar_3\Job_1\bin\Debug\net6.0\Job_1.exe
+C:\Users\kosmonaft3010\Desktop\Home work C#\Home_work_Seminar_3\Job_1\bin\Debug\net6.0\Job_1.deps.json
+C:\Users\kosmonaft3010\Desktop\Home work C#\Home_work_Seminar_3\Job_1\bin\Debug\net6.0\Job_1.runtimeconfig.json
+C:\Users\kosmonaft3010\Desktop\Home work C#\Home_work_Seminar_3\Job_1\bin\Debug\net6.0\Job_1.dll
+C:\Users\kosmonaft3010\Desktop\Home work C#\Home_work_Seminar_3\Job_1\bin\Debug\net6.0\Job_1.pdb
+C:\Users\kosmonaft3010\Desktop\Home work C#\Home_work_Seminar_3\Job_1\obj\Debug\net6.0\Job_1.csproj.AssemblyReference.cache
+C:\Users\kosmonaft3010\Desktop\Home work C#\Home_work_Seminar_3\Job_1\obj\Debug\net6.0\Job_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosmonaft3010\Desktop\Home work C#\Home_work_Seminar_3\Job_1\obj\Debug\net6.0\Job_1.AssemblyInfoInputs.cache
+C:\Users\kosmonaft3010\Desktop\Home work C#\Home_work_Seminar_3\Job_1\obj\Debug\net6.0\Job_1.AssemblyInfo.cs
+C:\Users\kosmonaft3010\Desktop\Home work C#\Home_work_Seminar_3\Job_1\obj\Debug\net6.0\Job_1.csproj.CoreCompileInputs.cache
+C:\Users\kosmonaft3010\Desktop\Home work C#\Home_work_Seminar_3\Job_1\obj\Debug\net6.0\Job_1.dll
+C:\Users\kosmonaft3010\Desktop\Home work C#\Home_work_Seminar_3\Job_1\obj\Debug\net6.0\refint\Job_1.dll
+C:\Users\kosmonaft3010\Desktop\Home work C#\Home_work_Seminar_3\Job_1\obj\Debug\net6.0\Job_1.pdb
+C:\Users\kosmonaft3010\Desktop\Home work C#\Home_work_Seminar_3\Job_1\obj\Debug\net6.0\Job_1.genruntimeconfig.cache
+C:\Users\kosmonaft3010\Desktop\Home work C#\Home_work_Seminar_3\Job_1\obj\Debug\net6.0\ref\Job_1.dll
